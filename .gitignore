@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Android captures
+captures/
+
+# External native build folder
+cxx/
+
+# Google Services
+google-services.json
+
+# Misc
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
