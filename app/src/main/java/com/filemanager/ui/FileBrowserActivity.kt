@@ -7,6 +7,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.filemanager.databinding.ActivityFileBrowserBinding
+import com.filemanager.ui.adapter.FileAdapter
 import com.filemanager.utils.FileUtils
 import java.io.File
 

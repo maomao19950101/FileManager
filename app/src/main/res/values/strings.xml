@@ -26,4 +26,6 @@
     <string name="title_activity_backup">备份恢复</string>
     <string name="title_activity_sync">自动同步</string>
     <string name="title_activity_settings">设置</string>
+    <string name="file_icon">文件图标</string>
+    <string name="selected_count">已选择 %d 项</string>
 </resources>

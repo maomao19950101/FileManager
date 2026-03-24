@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.filemanager.core.FileManagerApp
 import com.filemanager.core.model.TransferStatus
 import com.filemanager.databinding.ActivityTransferBinding
+import com.filemanager.ui.adapter.TransferTaskAdapter
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 
